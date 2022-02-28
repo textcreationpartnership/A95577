@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A recommendation to Mercurius Morbicus. Together with a fair character upon his worth. To the reader. Unto the arrant'st knave that lives by bread, I send this greeting; (you may please to read) ... I may to many now seem to deface him, but when I physick take, O then, I'le grace him.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95577</idno>
+            <idno type="STC">Wing T502</idno>
+            <idno type="STC">Thomason E410_6</idno>
+            <idno type="STC">ESTC R203754</idno>
+            <idno type="EEBO-CITATION">99863588</idno>
+            <idno type="PROQUEST">99863588</idno>
+            <idno type="VID">161206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161206)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E410[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A recommendation to Mercurius Morbicus. Together with a fair character upon his worth. To the reader. Unto the arrant'st knave that lives by bread, I send this greeting; (you may please to read) ... I may to many now seem to deface him, but when I physick take, O then, I'le grace him.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Anonymous. Attributed to John Taylor.</note>
+                  <note>Mercurius Morbicus = Henry Walker, ironmonger.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walker, Henry, --  Ironmonger.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161206:1" rendition="simple:additions"/>
+            <p>A RECOMMENDATION TO <hi>Mercurius Morbicus.</hi> TOGETHER WITH A fair Character upon his worth.</p>
+            <lg>
+               <head>To the Reader.</head>
+               <l>Unto the arrant'ſt Knave that lives by bread,</l>
+               <l>I ſend this greeting; (you may pleaſe to read)</l>
+               <l>His name is <hi>Mordicus</hi> (a non-ſenſe Talker)</l>
+               <l>Which being interpreted, is <hi>Harry Walker;</hi>
+               </l>
+               <l>Th'old Lyar Generall, and who but he</l>
+               <l>Walks now in Print, lyes by Authority:</l>
+               <l>For n'other cauſe, but leſt the Rogue ſhould vapour,</l>
+               <l>I ſpend upon him thus much ink and paper;</l>
+               <l>He ſtinks already both in verſe and proſe,</l>
+               <l>And therefore when you name him, ſtop your noſe.</l>
+               <l>I may to many now ſeem to deface him,</l>
+               <l>But when I phyſick take, O then, I'le grace him.</l>
+            </lg>
+            <p>Printed in the Yeer 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161206:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:161206:2"/>
+            <head>To <hi>Mercurius Morbicus.</hi>
+            </head>
+            <p>BOe to a Gooſe, <hi>Morbicus, Melancholicus</hi> is yet alive to give your lyes the lye an <hi>Italian</hi> mile down your throat. What ſirrah, do you think to lye by Sun-light, and yet paſſe like an Owle in dark<g ref="char:EOLhyphen"/>neſſe, not ſo much as to be ſeen, or notice taken of you? had you reduc'd your ſnakes unto one meal, or confin'd your malice within the rare diſcoveries of your hebdomedall journey-work, your weekly impu<g ref="char:EOLhyphen"/>dent Intelligence, it had been taken as an infirmity, a crime more tolerable; but to ſpit venome in volume, to belch poyſonous aires in continued guſts, and that under the ſcrubbed, ſcabbed name of a gouty-headed <hi>Morbicus;</hi> ſo to beſtink the City and Kingdom, that none can think upon you without a vomit; or name you without a ſtool or two: I am reſolved in the be<g ref="char:EOLhyphen"/>half of my Friend <hi>Melancholicus,</hi> whom thou haſt abuſed, and whoſe worth thou haſt violated beyond the Laws of truth, modeſty, or humanity (whoſe pen is too worthy to pitch upon ſuch an unciviliz'd ſub<g ref="char:EOLhyphen"/>ject, an ulcerous. rotten-nam'd Raſcal as you are) to kick you either into more honeſty or civility.</p>
+            <p>And firſt of all I muſt tell the world, that this ma<g ref="char:EOLhyphen"/>licious <hi>Zoylus,</hi> but to leave his nature and to give him his own ſelf godfathers worſhipfull firname, <hi>Morbi<g ref="char:EOLhyphen"/>cus,</hi> or Knight Hoſpitaller, in his ſmall-beer jeſts be<g ref="char:EOLhyphen"/>gins with a Proclamation (whereof this City-news-Cryers head hath been ſtuft as full as a fardle, ever
+<pb n="2" facs="tcp:161206:3"/>ſince he was pen-feather'd in the Pillory, and had his fortune read in his fore-head in Cheapſide) and wher<g ref="char:EOLhyphen"/>in he is pleaſed to give <hi>Melancholicus</hi> the title of a phrenzie Prieſt (that was when the diſeaſed Doctor Iremonger caſt his water laſt) and that he hath a di<g ref="char:EOLhyphen"/>ſtemper'd brain, gotten non-ſenſe by roat, &amp;c. All which is as apparent truth, as that <hi>H. Walker</hi> is an ho<g ref="char:EOLhyphen"/>neſt man. But ſtay, <hi>Morbicus?</hi> ſirrah, who gave you that Utopian name? I am ſure, neither <hi>Calepine, Cooper, Thomas, Rider,</hi> nor any of our <hi>Anglo-Latines</hi> was ever guilty of any ſuch falſe coyne; but it appears to be your own, the pure ſtamp of your own witty <hi>Genius,</hi> (except you'd pickt ſome <hi>Mountebanks</hi> pocket of it) and now the Evangelicall Iremonger and illumina<g ref="char:EOLhyphen"/>ted Pillorian, may plead antiquity with the primitive Fathers; the <hi>Albigenſes,</hi> and <hi>Waldenſes,</hi> were but younger brethren to him being of Apoſtolicall de<g ref="char:EOLhyphen"/>ſcent, either from S. <hi>Thomas,</hi> or St. <hi>Bartholomew,</hi> grand Patriarks to the <hi>Lazaries</hi> of old <hi>Troynovant.</hi>
+            </p>
+            <p>Then the Fool comes in with a Character in yel<g ref="char:EOLhyphen"/>low laced blew coat verſe; but ſo ſweetly compos'd, as harp and harrow in a Conſort: able to make the Reader be-cack himſelf in proſe. Then he mounts the ſtage, (enter <hi>Jeronimo</hi>) and faces his ſpeech with a bald patch of beaſtly Greek as falſe as himſelf, and none knows the meaning of (except <hi>Morbicus;</hi>) and ſo proceeds into abominable raptures of knavery, lyes, and non-ſenſe, truly I abhor to name 'em, though his brazen face never bluſht to print 'em. And for an Epi<g ref="char:EOLhyphen"/>logue, he preſents you with a peece of curtail'd Intel<g ref="char:EOLhyphen"/>ligence lickt over again, as his faſhion is, to re-publiſh his well belſhing lyes with new titles.</p>
+            <pb n="5" facs="tcp:161206:3"/>
+            <p> In his next, (which is his <hi>Go triumphe</hi>) he fathers ſtrange names upon <hi>Melancholicus,</hi> miſcalling him in his zealous knavery, by the name of <hi>Hacket,</hi> and <hi>Hacklet,</hi> and then tels him, he is a knave, for having two names; what then is <hi>H. Walker,</hi> and <hi>Luke Harruney?</hi> and yet the Rogue puts them upon him; for <hi>Melan<g ref="char:EOLhyphen"/>cholicus</hi> is no kin to 'em I wonder that he put not one of his own borrowed names upon him, that would have made him a knave indeed: but who can expect better ſtuffe (be it ſpoke with reverence to his pluſh cloak) from ſuch a naſty compound of incorrupted villanie? who hath no leſſe then two and fifty lyes in his laſt peece, dated <hi>Sept.</hi> 20. to <hi>Sept.</hi> 27. as if he would have no body lye but himſelf, and had engrosſt knavery by Letters Pattents. I had thought to have caſt his water at this time, and given the Reader a per<g ref="char:EOLhyphen"/>fect Relation of the conſtitution of this Hoſpitall of Diſeaſes; and from the effects, (out of charity) diſ<g ref="char:EOLhyphen"/>courſe the Cauſe and Cure of him, but of that ano<g ref="char:EOLhyphen"/>ther time; In the mean ſpace I pray peruſe his Cha<g ref="char:EOLhyphen"/>racter.</p>
+            <div type="part">
+               <head>
+                  <hi>Mercurius Morbicus</hi> his Character: <hi>What he was, what he is, and what he ſhall be.</hi>
+               </head>
+               <p>
+                  <hi>He was</hi>
+                  <lb/> Begot in obſcenity, and brought forth in iniquity, a monſtrous birth ominous to others, fatall to himſelf, ſproughting into yeers, was ſettled in an occupation, an Iremonger by his trade; wanting nothing but the fear of God to make him an honeſt man; ſo that when old Time began to ſhew new tricks, this pragmatiſt,
+<pb n="6" facs="tcp:161206:4"/>being thruſt forward, by ſelfe-ends, Envy, and Oſten<g ref="char:EOLhyphen"/>tation, began to claw the old men by the ſhoulders, crept into his books, (as faſt his cuſtomers crept out of his) and would venter, (being naturally impudent) to ſhew ſome tumbling tricks unto the world, to play <hi>Preſto begone,</hi> with the Laws, to juggle with Religion, which he made a cover-knave for his Ambition, which plumpt him to that growth, that no place but <hi>Moſes Chayre</hi> muſt ſerve him to play his feats in; where the inſpired <hi>Rabbi</hi> began by his inviſible revelations, to unmyſtery the Scriptures, and according to the illumi<g ref="char:EOLhyphen"/>nation, to make Truth falſhood, and falſhood Truth, untill Law and Truth ſat Judges upon him, and forc'd him to recant his divinity in a pillory; who there im<g ref="char:EOLhyphen"/>prov'd ſo much his former impudence, that ever ſince he was able to manage his actions with incomparable, audacity, and out-face the world with his forgeries for authentick verities; ſo that now</p>
+               <p>
+                  <hi>He is</hi>
+                  <lb/> Doubly broke, both in hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cuſtome, and his conſci<g ref="char:EOLhyphen"/>ence: but to hold up his head from finking, he hath one bladder full blown with the breath of ſeeming ſanctimony, and another with ſycophantick inſinua<g ref="char:EOLhyphen"/>tion; hanging by one hand on the countenance of the Parliament, by the other on the ſhoulders of the Fa<g ref="char:EOLhyphen"/>ction; theſe keep him above ground, and have made him ſo notorious, that now he dares to write bad Eng<g ref="char:EOLhyphen"/>liſh (abhorring all other languages as Hereticall) and is become the onely <hi>Homer</hi> in proſe, weekely to hiſtorize great <hi>Britans Iliads:</hi> his ambition being in the Intellective part, he vents all his wit in print, and hath emptied his head, (that Magazine of infernall
+<pb n="7" facs="tcp:161206:4"/>rogurie, and diſſimulation) into the preſſes, not onely of what he had, but what upon his crackt credit he could bor<g ref="char:EOLhyphen"/>row without leave, his eſtate is too narrow for his minde, and therefore he hath wrought himſelf roome in others af<g ref="char:EOLhyphen"/>faires, and now ſtruts as ſtiffe as an <hi>Elephant</hi> in his new Office; hoping thereby to purge his nonſence, by the peruſing and authorizing others labours; corragious Pens muſt vaile Bon<g ref="char:EOLhyphen"/>net to this <hi>Don Quixot;</hi> not a Muſe muſt gad abroad except by Petition to this brazen calfe for liberty; nor a truth peepe out with his head, for fear of being bitten off by this <hi>Cani<g ref="char:EOLhyphen"/>ball;</hi> whilſt the varniſht Logger-head bleſſeth himſelfe in his politick plot, and <hi>Garragantua</hi> conqueſt over the poor pam<g ref="char:EOLhyphen"/>phlets, walks like a knave in print, ſpeaks himſelf by autho<g ref="char:EOLhyphen"/>rity, &amp; charms down learning with bluſhleſſe lyes: no News ſtirring, but what paſſes by his doore; and be it true or falſe, good or bad, all's one to him, he puts it off, though at the ſecond, or third hand, for pure Orthodox; from home he now begins to tell of forraigne diſcoveries, by the next we expect wonders from <hi>Terra incognita</hi> in a nut-ſhell. In a word he ſhewes well to all, but ſeldome ſayes well of any, but him<g ref="char:EOLhyphen"/>ſelf, and yet himſelf is ſtill himſelf, and that's the worſt thing that he hath, his works and he comes all out of one ſhop, be<g ref="char:EOLhyphen"/>gins like a candle with a blaze, and goes out with a ſtink, he is any thing of what is nought, nothing of what he ſhould be, if any thing is good, worſe when an Angel, then when a devil, a right Spaniſh ſouldier, or an Italian theater; a blad<g ref="char:EOLhyphen"/>der filled with ſeverall windes, the beſt infectious, a fooles wonder, and the wiſe mans foole, and</p>
+               <p>
+                  <hi>Shall be</hi>
+                  <lb/> Enough miſerable by being himſelf; as he hath been uncha<g ref="char:EOLhyphen"/>ritable in his cenſures, impudent in his forgeries; ſo he ſhall be unquiet in his fears, his own terrour, and his ſouls rack and tormentor; as ſoon as the winde comes about, and the wheel turns, he ſhall account it happines to enjoy one houres liberty to bewail his own baſeneſſe and villany, and then—
+<q xml:lang="lat">
+                     <l>moveat Cornicula riſum,</l>
+                     <l>Furtivis nudata coloribus.</l>
+                  </q>
+                  <pb n="8" facs="tcp:161206:5"/>And then ſhall all his cunning tricks reſult upon his loath ſome ſtomack, his hypocriticall deluſions buffet him on the cheeks, his unlimited lyes flie by flocks in his face, and all his knavery return into it's firſt principle, himſelf; and every fool will point the finger at him, and ſay, There goes <hi>Id. Walker</hi> the diſſembling knave; and when he dyes, every wit<g ref="char:EOLhyphen"/>ty Pen will rejoyce at the fall of ſuch an Enemy, and ring out his paſſing knell in ſcoffing rymes: if he make (as it is very like) his end at the Gallows, then ſayes one:
+<q>
+                     <l>Here hangs <hi>Walker</hi> in a ſtring</l>
+                     <l>That <hi>Judas</hi>-like did hate his King:</l>
+                     <l>Faithleſſe, fruitleſſe he was ever,</l>
+                     <l>Except in lyes, but loyall never.</l>
+                     <l>From hence h'as taken wing to be</l>
+                     <l>Old <hi>Belzebubs</hi> chief <hi>Mercury.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>If he dyes in his bed, then ſayes another:
+<q>
+                     <l>
+                        <hi>Walker</hi> the Iremonger, a goodly rich prize,</l>
+                     <l>
+                        <hi>Death</hi> ſent to the <hi>Devil</hi> for telling of lyes:</l>
+                     <l>Where now without check, he may let his pen run,</l>
+                     <l>In legends of wonders, and what here was done</l>
+                     <l>In Parliament, Army, and our times here ſo ſad,</l>
+                     <l>I'aſſure you better Scribe, the <hi>Devil</hi> nere had.</l>
+                  </q>
+               </p>
+               <p>Then ſayes another:
+<q>
+                     <l>Here lyes the Iremonger, who'le deny it?</l>
+                     <l>Whoſe buſie brains did make him live unquiet:</l>
+                     <l>'Tis but his body reſts; his ſoul not ſo,</l>
+                     <l>That's gone to preach unto the Saints belowe.</l>
+                  </q>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
